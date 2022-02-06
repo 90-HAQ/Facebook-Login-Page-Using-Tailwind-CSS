@@ -15,6 +15,10 @@
 <img src="https://github.com/90-HAQ/facebook_login_page_tailwind/blob/master/facebook_login_page.png">
 
 
+## Requirements
 
+ - Vs Code Editor (https://code.visualstudio.com/)
+ - Node Js (https://nodejs.org/en/)
+ 
 
 
