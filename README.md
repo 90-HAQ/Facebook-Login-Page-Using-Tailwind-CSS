@@ -27,7 +27,7 @@
  <li>Create a new Folder / Project and open it in Vscode.</li>
  <li>Create a file <strong> intex.html </strong>.</li>
  <li>To use <strong> Tailwind CSS </strong> you should have <strong> Node JS </strong> . </li>
- <li>Without Node JS you cannot use Tailwind CSS  </li>
+ <li>Without Node JS you cannot use Tailwind CSS.  </li>
  <li> Installation of Tailwind CSS is gieven below read and implement step by step.</li>
 </ul>
 
