@@ -2,7 +2,7 @@
 </a></p>
 
 
-<p align="center"><a href="https://tailwind.com" target="_blank"><img src="https://github.com/90-HAQ/facebook_login_page_tailwind/blob/master/tailwind_css.svg" width="400">
+<p align="center"><a href="https://https://tailwindcss.com" target="_blank"><img src="https://github.com/90-HAQ/facebook_login_page_tailwind/blob/master/tailwind_css.svg" width="400">
 </a></p>
 
 
