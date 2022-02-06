@@ -11,7 +11,8 @@
 
 ## Screenshot
 
-https://github.com/90-HAQ/facebook_login_page_tailwind/blob/master/facebook_login_page.png
+<img src="https://github.com/90-HAQ/facebook_login_page_tailwind/blob/master/facebook_login_page.png">
+
 
 
 
