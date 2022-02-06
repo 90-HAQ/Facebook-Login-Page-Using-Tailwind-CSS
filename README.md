@@ -19,6 +19,12 @@
 
  - Vs Code Editor (https://code.visualstudio.com/)
  - Node Js (https://nodejs.org/en/)
+
+
+## Project Setup
+
+ - First to use **Tailwind CSS** you should have **Node JS**
+ - without node js you cannot use tailwind css
  
 
 
