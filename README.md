@@ -55,7 +55,8 @@ Run 3rd command in the terminal, hit enter to install <strong> Tailwind CSS Conf
 Run 3rd command in the terminal, hit enter to install <strong> Tailwind CSS </strong> in your project.
  
     npm install vite
-    we install vite because we want to start a server that will automatically refresh.
+    
+we install vite because we want to start a server that will automatically refresh.
  
 <br>
 
@@ -65,6 +66,8 @@ Then goto package.json file, make a change in script section above the devDepend
     { 
       "start" : "vite" 
     },
+
+<br>
 
 Run 4th command in the terminal, hit enter to install <strong> Tailwind CSS Configuration </strong>.
  
@@ -94,6 +97,7 @@ After running both above commands goto <strong> tailwind.confing.js <strong> fil
 
 	<script src="https://cdn.tailwindcss.com"></script>
  
+<br>	
  
 Run last command in the terminal, hit enter to install <strong> Tailwind CSS Configuration </strong>.
  
@@ -101,15 +105,8 @@ Run last command in the terminal, hit enter to install <strong> Tailwind CSS Con
  
 it will create a localhost server.
  
-
-
-
-
-
-
-
-
-
+<br>
+	
 ## Feed Back
 
 If you have any feedback or questions, please reach out to us at hussainhashmi1426@gmail.com
