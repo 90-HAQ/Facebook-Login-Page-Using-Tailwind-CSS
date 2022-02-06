@@ -25,6 +25,8 @@
 
  - First to use **Tailwind CSS** you should have **Node JS**
  - without node js you cannot use tailwind css
- 
 
+## Feed Back
+
+If you have any feedback or questions, please reach out to us at hussainhashmi1426@gmail.com
 
