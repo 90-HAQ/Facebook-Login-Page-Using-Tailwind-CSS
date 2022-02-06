@@ -3,15 +3,13 @@
 </a></p>
 
 
-
+<br><br>
 
 
 <h1 align="center">Facebook Login Page Using Tailwind Css</h1>
 
 
-## Screenshots
-
-Screenshot-1 
+## Screenshot
 
 ![rowng search api 3](https://github.com/90-HAQ/facebook_login_page_tailwind/blob/master/facebook_login_page.png)
 
