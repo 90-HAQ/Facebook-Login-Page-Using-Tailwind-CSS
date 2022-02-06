@@ -23,8 +23,10 @@
 
 ## Project Setup
 
- - First to use **Tailwind CSS** you should have **Node JS**
- - without node js you cannot use tailwind css
+<ul>
+ <li>First to use **Tailwind CSS** you should have **Node JS** </li>
+ <li>without node js you cannot use tailwind css </li>
+</ul>
 
 ## Feed Back
 
