@@ -24,9 +24,91 @@
 ## Project Setup
 
 <ul>
- <li>First to use **Tailwind CSS** you should have **Node JS** </li>
- <li>without node js you cannot use tailwind css </li>
+ <li>Create a new Folder / Project and open it in Vscode.</li>
+ <li>Create a file <strong> intex.html </strong>.</li>
+ <li>To use <strong> Tailwind CSS </strong> you should have <strong> Node JS </strong> . </li>
+ <li>Without Node JS you cannot use Tailwind CSS  </li>
+ <li> Installation of Tailwind CSS is gieven below read and implement step by step.</li>
 </ul>
+
+## Tailwind CSS Setup
+
+Run 1st command in the terminal, hit enter to install all the <strong> node_modules </strong>.
+ 
+    npm i
+ 
+<br>
+ 
+Run 2nd command in the terminal, hit enter to install <strong> package.json </strong> file.
+ 
+    npm init -y
+ 
+<br>
+
+
+Run 3rd command in the terminal, hit enter to install <strong> Tailwind CSS Configuration </strong>.
+ 
+    npm install -D tailwindcss postcss autoprefixer
+ 
+<br>
+
+Run 3rd command in the terminal, hit enter to install <strong> Tailwind CSS </strong> in your project.
+ 
+    npm install vite
+    we install vite because we want to start a server that will automatically refresh.
+ 
+<br>
+
+Then goto package.json file, make a change in script section above the devDependencies.
+  
+    "script": 
+    { 
+      "start" : "vite" 
+    },
+
+Run 4th command in the terminal, hit enter to install <strong> Tailwind CSS Configuration </strong>.
+ 
+    npx tailwindcss init -p  
+    npx tailwindcss init     
+ 
+<br>
+
+After running both above commands goto <strong> tailwind.confing.js <strong> file, make a change in script.
+
+    module.exports = 
+    {
+      content: ["*"],
+      theme: 
+      {
+       extend: {},
+      },
+      plugins: [],
+    }
+
+
+ it means that i want to use tailwind in all the content.
+ 
+ <br>
+ 
+ Add the tailwind script in the index.html file.
+
+	<script src="https://cdn.tailwindcss.com"></script>
+ 
+ 
+Run last command in the terminal, hit enter to install <strong> Tailwind CSS Configuration </strong>.
+ 
+    npm run start
+ 
+it will create a localhost server.
+ 
+
+
+
+
+
+
+
+
 
 ## Feed Back
 
