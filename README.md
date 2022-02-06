@@ -6,7 +6,7 @@
 <br><br>
 
 <h1 align="center">Facebook Login Page Using Tailwind Css</h1>
-<h2 align="center">Go through the readme file for the installation of the setup</h2>
+<h3 align="center">Go through the readme file for the installation of the setup</h3>
 
 <br><br>
 
